@@ -240,7 +240,7 @@ export function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="border-2 border-white/30 text-white hover:bg-white/10 hover:border-white/50 px-8 py-3 backdrop-blur-sm"
+              className="border-2 border-white/30 text-blue-400 hover:bg-white/10 hover:border-white/50 px-8 py-3 backdrop-blur-sm"
               onClick={() => scrollToSection("contact")}
             >
               Get In Touch
